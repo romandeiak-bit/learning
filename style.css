@@ -1,0 +1,11 @@
+.full{
+    background: aqua;
+   
+    height:  200px;
+}
+p{
+    font-size: 20px
+}
+.div(class='Green'){
+    background: green;
+}
